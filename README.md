@@ -17,6 +17,7 @@ brew install --HEAD universal-ctags/universal-ctags/universal-ctags
 pip3 install neovim
 pip3 install flake8 
 pip3 install jedi
+pip3 install python-language-server
 ```
 
 Install MacVim:
